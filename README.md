@@ -45,6 +45,6 @@ $ docker ps
 [3]: https://github.com/docker/docker
 [4]: https://hub.docker.com/r/vimagick/shadowsocks-libev/
 [5]: https://badge.imagelayers.io/vimagick/shadowsocks-libev:latest.svg
-[6]: https://duckduckgo.com/?q=password+12&t=ffsb&ia=blakmak2006
+[6]: https://duckduckgo.com/?q=password+12&t=ffsb&ia=XYimyPz4W3fp
 [7]: https://github.com/docker/compose
 [8]: https://shadowsocks.org/en/download/clients.html
